@@ -1,0 +1,3 @@
+/home/devbox/project/mymoduo/build/CMakeFiles/mymoduo.dir
+/home/devbox/project/mymoduo/build/CMakeFiles/edit_cache.dir
+/home/devbox/project/mymoduo/build/CMakeFiles/rebuild_cache.dir
